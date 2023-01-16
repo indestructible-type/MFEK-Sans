@@ -1,6 +1,6 @@
 MFEK Sans
 =========
-![MFEK Sans Picture](https://github.com/indestructible-type/MFEK-Sans/raw/master/documentation/MFEK-Sans.svg)
+![MFEK Sans Picture](https://raw.githubusercontent.com/indestructible-type/MFEK-Sans/main/documentation/MFEK-Sans.svg)
 MFEK Sans is an original font created by indestructible type*. It is inspired by 
 Wooden Type from the mid to late 1800s.
 
