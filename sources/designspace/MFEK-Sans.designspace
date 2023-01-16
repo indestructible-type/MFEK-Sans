@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designspace format="4.1">
+
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <map input="400" output="400"/>
+      <map input="500" output="470"/>
+      <map input="600" output="550"/>
+      <map input="700" output="650"/>
+      <map input="800" output="766"/>
+      <map input="900" output="900"/>
+    </axis>
+  </axes>
+
+  <sources>
+    <source filename="../ufo/regular.ufo" name="MFEK Sans Regular" familyname="MFEK Sans" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+  </sources>
+
+  <instances>
+    <instance postscriptfontname="MFEK-Sans-Regular" familyname="MFEK Sans" name="MFEK Sans Regular" stylemapfamilyname="MFEK Sans" stylemapstylename="regular" stylename="Regular" filename="../instance_ufo/MFEK-Sans-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+  </instances>
+
+</designspace>
