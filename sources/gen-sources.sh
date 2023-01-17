@@ -4,7 +4,8 @@
 echo ".
 GENERATING UFO SOURCES
 ."
-SOURCE_DIR=fontforge
+cp -r fontforge fontforge2
+SOURCE_DIR=fontforge2
 UFO_DIR=ufo
 rm -rf $UFO_DIR
 mkdir -p $UFO_DIR
@@ -16,3 +17,5 @@ do
 	mv ./"$source"_out ./"$source"
 	python3 -m sfdLib --ufo-kerning --ufo-anchors $source $UFO_DIR/${base%.*}.ufo
 done
+
+rm -r fontforge2
