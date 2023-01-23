@@ -3,31 +3,84 @@
 
   <axes>
     <axis tag="TRMA" name="Rounded" minimum="0" maximum="1000" default="0"></axis>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <map input="400" output="400"/>
+      <map input="500" output="470"/>
+      <map input="600" output="550"/>
+      <map input="700" output="650"/>
+      <map input="800" output="766"/>
+      <map input="900" output="900"/>
+    </axis>
   </axes>
 
   <sources>
     <source filename="../ufo/regular.ufo" name="MFEK Sans Regular" familyname="MFEK Sans" stylename="Regular">
       <location>
         <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="../ufo/black.ufo" name="MFEK Sans Black" familyname="MFEK Sans" stylename="Black">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="900"/>
       </location>
     </source>
     <source filename="../ufo/rounded-regular.ufo" name="MFEK Sans Rounded Regular" familyname="MFEK Sans Rounded" stylename="Regular">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
   </sources>
 
   <instances>
-    <instance postscriptfontname="MFEK-Sans-Regular" familyname="MFEK Sans" name="MFEK Sans Regular" stylemapfamilyname="MFEK Sans" stylemapstylename="regular" stylename="Regular" filename="../instance_ufo/MFEK-Sans-Regular.ufo">
+    <instance postscriptfontname="MFEKSans-Regular" familyname="MFEK Sans" name="MFEK Sans Regular" stylemapfamilyname="MFEK Sans" stylemapstylename="regular" stylename="Regular" filename="../instance_ufo/MFEKSans-Regular.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEK-Sans-Rounded-Regular" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Regular" stylemapfamilyname="MFEK Sans Rounded" stylemapstylename="regular" stylename="Regular" filename="../instance_ufo/MFEK-Sans-Rounded-Regular.ufo">
+    <instance postscriptfontname="MFEKSans-Medium" familyname="MFEK Sans" name="MFEK Sans Medium" stylemapfamilyname="MFEK Sans Medium" stylemapstylename="regular" stylename="Medium" filename="../instance_ufo/MFEKSans-Medium.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="470"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSans-SemiBold" familyname="MFEK Sans" name="MFEK Sans SemiBold" stylemapfamilyname="MFEK Sans SemiBold" stylemapstylename="regular" stylename="SemiBold" filename="../instance_ufo/MFEKSans-SemiBold.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="550"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSans-Bold" familyname="MFEK Sans" name="MFEK Sans Bold" stylemapfamilyname="MFEK Sans" stylemapstylename="bold" stylename="Bold" filename="../instance_ufo/MFEKSans-Bold.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="650"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSans-ExtraBold" familyname="MFEK Sans" name="MFEK Sans ExtraBold" stylemapfamilyname="MFEK Sans ExtraBold" stylemapstylename="regular" stylename="ExtraBold" filename="../instance_ufo/MFEKSans-ExtraBold.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="766"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSans-Black" familyname="MFEK Sans" name="MFEK Sans Black" stylemapfamilyname="MFEK Sans Black" stylemapstylename="regular" stylename="Black" filename="../instance_ufo/MFEKSans-Black.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSansRounded-Regular" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Regular" stylemapfamilyname="MFEK Sans Rounded" stylemapstylename="regular" stylename="Regular" filename="../instance_ufo/MFEKSansRounded-Regular.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
     </instance>
   </instances>
@@ -59,6 +112,65 @@
                 <string>Rounded</string>
                 <key>value</key>
                 <string>1000</string>
+              </dict>
+
+            </array>
+          </dict>
+
+          <dict>
+            <key>name</key>
+            <string>Weight</string>
+            <key>tag</key>
+            <string>wght</string>
+            <key>locations</key>
+            <array>
+
+              <dict>
+                <key>name</key>
+                <string>Regular</string>
+                <key>value</key>
+                <integer>400</integer>
+                <key>linked_value</key>
+                <integer>700</integer>
+                <key>flags</key>
+                <array>
+                  <string>ElidableAxisValueName</string>
+                </array>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>Medium</string>
+                <key>value</key>
+                <integer>500</integer>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>SemiBold</string>
+                <key>value</key>
+                <integer>600</integer>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>Bold</string>
+                <key>value</key>
+                <integer>700</integer>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>ExtraBold</string>
+                <key>value</key>
+                <integer>800</integer>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>Black</string>
+                <key>value</key>
+                <integer>900</integer>
               </dict>
 
             </array>
