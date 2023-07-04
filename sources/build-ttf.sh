@@ -31,11 +31,19 @@ fi
 echo ".
 GENERATING TTF
 ."
-TT_DIR=../fonts/ttf
-rm -rf $TT_DIR
-mkdir -p $TT_DIR
 
-fontmake -m designspace/$fontName.designspace -i -o ttf --output-dir $TT_DIR
+genttf() {
+	TT_DIR=../fonts/ttf
+	rm -rf $TT_DIR
+	mkdir -p $TT_DIR
+
+	instances="$(xidel -e 'root()//instances//instance/@name' < designspace/MFEK-Sans.designspace)"
+	parallel --bar "
+	fontmake -m designspace/$fontName.designspace -i {} -o ttf --output-dir $TT_DIR
+	" <<< "$instances"
+}
+
+[ -z "$NO_REBUILD" ] && genttf
 
 ##########################################
 
@@ -43,13 +51,12 @@ echo ".
 POST-PROCESSING TTF
 ."
 ttfs=$(ls $TT_DIR/*.ttf)
-for font in $ttfs
-do
-	python3 -m ttfautohint $font $font.fix
-	[ -f $font.fix ] && mv $font.fix $font
-	gftools fix-hinting $font
-	[ -f $font.fix ] && mv $font.fix $font
-done
+parallel --bar "
+	python3 -m ttfautohint {} {}.fix
+	[ -f {}.fix ] && mv {}.fix {}
+	gftools fix-hinting {}
+	[ -f {}.fix ] && mv {}.fix {}
+" <<< "$ttfs"
 
 
 ##########################################
