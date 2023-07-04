@@ -1,0 +1,5 @@
+fontbakery
+fontmake
+gftools
+python3
+xidel

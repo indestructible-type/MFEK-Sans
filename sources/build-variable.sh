@@ -3,7 +3,7 @@
 set -e
 
 fontName="MFEK-Sans"
-axes="TRMA,wght"
+axes="TRMA,wght,wdth"
 
 ##########################################
 

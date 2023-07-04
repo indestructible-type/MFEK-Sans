@@ -3,7 +3,8 @@
 
   <axes>
     <axis tag="TRMA" name="Rounded" minimum="0" maximum="1000" default="0"></axis>
-    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+      <map input="100" output="100"/>
       <map input="400" output="400"/>
       <map input="500" output="470"/>
       <map input="600" output="550"/>
@@ -19,6 +20,13 @@
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="../ufo/thin.ufo" name="MFEK Sans Thin" familyname="MFEK Sans" stylename="Thin">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="100"/>
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
@@ -76,6 +84,30 @@
   <instances>
 
 <!-- REGULAR -->
+    <instance postscriptfontname="MFEKSans-Thin" familyname="MFEK Sans" name="MFEK Sans Thin" stylemapfamilyname="MFEK Sans Thin" stylemapstylename="regular" stylename="Thin" filename="../instance_ufo/MFEKSans-Thin.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSans-ExtraLight" familyname="MFEK Sans" name="MFEK Sans ExtraLight" stylemapfamilyname="MFEK Sans ExtraLight" stylemapstylename="regular" stylename="ExtraLight" filename="../instance_ufo/MFEKSans-ExtraLight.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+
+    <instance postscriptfontname="MFEKSans-Light" familyname="MFEK Sans" name="MFEK Sans Light" stylemapfamilyname="MFEK Sans Light" stylemapstylename="regular" stylename="Light" filename="../instance_ufo/MFEKSans-Light.ufo">
+      <location>
+        <dimension name="Rounded" xvalue="0"/>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+
     <instance postscriptfontname="MFEKSans-Regular" familyname="MFEK Sans" name="MFEK Sans Regular" stylemapfamilyname="MFEK Sans" stylemapstylename="regular" stylename="Regular" filename="../instance_ufo/MFEKSans-Regular.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
@@ -652,6 +684,27 @@
                 <string>Black</string>
                 <key>value</key>
                 <integer>900</integer>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>Light</string>
+                <key>value</key>
+                <integer>300</integer>
+              </dict>
+              
+              <dict>
+                <key>name</key>
+                <string>ExtraLight</string>
+                <key>value</key>
+                <integer>200</integer>
+              </dict>
+              
+              <dict>
+                <key>name</key>
+                <string>Thin</string>
+                <key>value</key>
+                <integer>100</integer>
               </dict>
 
             </array>

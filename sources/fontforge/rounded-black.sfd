@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1460762150
-ModificationTime: 1688458760
+ModificationTime: 1688473356
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 272 16 4
+WinInfo: 256 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1821,26 +1821,26 @@ Width: 1255
 VWidth: 1920
 Flags: HMW
 AnchorPoint: "bottom" 629 0 basechar 0
-AnchorPoint: "top" 820 1050 basechar 0
+AnchorPoint: "top" 298 1450 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-290 1480 m 262
- 300 1480 l 262
- 447 1480 540 1397 540 1220 c 262
- 540 230 l 262
- 540 53 446.595703125 -30 300 -30 c 262
- 290 -30 l 262
- 143 -30 50 53 50 230 c 262
- 50 1220 l 262
- 50 1397 143 1480 290 1480 c 262
+290 1480 m 258
+ 300 1480 l 258
+ 447 1480 540 1397 540 1220 c 258
+ 540 230 l 258
+ 540 53 446.595703125 -30 300 -30 c 258
+ 290 -30 l 258
+ 143 -30 50 53 50 230 c 258
+ 50 1220 l 258
+ 50 1397 143 1480 290 1480 c 258
 490 703 m 257
  490 943 648 1085 865 1085 c 256
  1092 1085 1210 972.995117188 1210 663 c 258
- 1210 230 l 262
- 1210 53 1117 -30 970 -30 c 262
- 960 -30 l 262
- 813 -30 720 53 720 230 c 262
+ 1210 230 l 258
+ 1210 53 1117 -30 970 -30 c 258
+ 960 -30 l 258
+ 813 -30 720 53 720 230 c 258
  720 613 l 258
  720 713 702 755 645 755 c 256
  588 755 540 683 540 473 c 257
@@ -6247,10 +6247,10 @@ EndChar
 StartChar: hcircumflex
 Encoding: 293 293 272
 Width: 1255
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 166 770 N 1 0 0 1 850 449.52 2
+Refer: 166 770 N 1 0 0 1 857 449.52 2
 Refer: 45 104 N 1 0 0 1 0 0 3
 EndChar
 

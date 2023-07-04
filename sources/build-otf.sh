@@ -37,7 +37,6 @@ genotf() {
 	mkdir -p $TT_DIR
 
 	instances="$(xidel -e 'root()//instances//instance/@name' < designspace/MFEK-Sans.designspace)"
-	parallel --bar "
 	fontmake -m designspace/$fontName.designspace -i {} -o otf --output-dir $TT_DIR
 	" <<< "$instances"
 }
@@ -61,8 +60,6 @@ parallel --bar "
 ##########################################
 
 rm -rf instance_ufo/ master_ufo/
-
-find . | grep -E "(__pycache__|\.pyc|\.pyo$)" | xargs rm -rf
 
 echo ".
 COMPLETE!
