@@ -17,8 +17,13 @@ Foundation](https://mfek.org/foundation/).
 
 Changelog
 ---------
-<b>v0.01</b>
-Pre-Release.
+<b>v0.02β</b>
+* Various build system improvements.
+* Moved ĥ's circumflex position.
+* Fixed ĵ's circumflex position in certain ultracondensed weights.
+
+<b>v0.01β</b>
+* Pre-Release.
 
 Building
 --------

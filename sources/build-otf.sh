@@ -31,11 +31,18 @@ fi
 echo ".
 GENERATING OTF
 ."
-TT_DIR=../fonts/otf
-rm -rf $TT_DIR
-mkdir -p $TT_DIR
+genotf() {
+	TT_DIR=../fonts/otf
+	rm -rf $TT_DIR
+	mkdir -p $TT_DIR
 
-fontmake -m designspace/$fontName.designspace -i -o otf --output-dir $TT_DIR
+	instances="$(xidel -e 'root()//instances//instance/@name' < designspace/MFEK-Sans.designspace)"
+	parallel --bar "
+	fontmake -m designspace/$fontName.designspace -i {} -o otf --output-dir $TT_DIR
+	" <<< "$instances"
+}
+
+[ -z "$NO_REBUILD" ] && genotf
 
 ##########################################
 
@@ -43,11 +50,12 @@ echo ".
 POST-PROCESSING OTF
 ."
 otfs=$(ls $TT_DIR/*.otf)
-for font in $otfs
-do
-	gftools fix-hinting $font
-	[ -f $font.fix ] && mv $font.fix $font
-done
+parallel --bar "
+	psautohint {} -o {}.fix
+	[ -f {}.fix ] && mv {}.fix {}
+	gftools fix-hinting {}
+	[ -f {}.fix ] && mv {}.fix {}
+" <<< "$otfs"
 
 
 ##########################################
