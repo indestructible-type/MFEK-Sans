@@ -37,7 +37,7 @@ genttf() {
 	rm -rf $TT_DIR
 	mkdir -p $TT_DIR
 
-	instances="$(xidel -e 'root()//instances//instance/@name' < designspace/MFEK-Sans.designspace)"
+	instances="$(xidel -e '//instances/instance/@name' designspace/MFEK-Sans.designspace)"
 	parallel --bar "
 	fontmake -m designspace/$fontName.designspace -i {} -o ttf --output-dir $TT_DIR
 	" <<< "$instances"
