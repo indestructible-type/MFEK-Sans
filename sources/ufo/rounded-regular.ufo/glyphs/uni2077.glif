@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2077" format="2">
+  <advance height="1920" width="652"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="610.0" y="1364.0" type="curve" smooth="yes"/>
+      <point x="341.0" y="716.0" type="line" smooth="yes"/>
+      <point x="307.420423959" y="635.10942277"/>
+      <point x="264.0" y="600.0"/>
+      <point x="220.0" y="600.0" type="curve" smooth="yes"/>
+      <point x="216.0" y="600.0" type="line" smooth="yes"/>
+      <point x="172.0" y="600.0"/>
+      <point x="146.556086351" y="646.138192908"/>
+      <point x="179.0" y="716.0" type="curve" smooth="yes"/>
+      <point x="466.0" y="1334.0" type="line"/>
+      <point x="146.0" y="1334.0" type="line" smooth="yes"/>
+      <point x="62.0" y="1334.0"/>
+      <point x="40.0" y="1356.0"/>
+      <point x="40.0" y="1400.0" type="curve" smooth="yes"/>
+      <point x="40.0" y="1404.0" type="line" smooth="yes"/>
+      <point x="40.0" y="1448.0"/>
+      <point x="62.0" y="1470.0"/>
+      <point x="146.0" y="1470.0" type="curve" smooth="yes"/>
+      <point x="548.0" y="1470.0" type="line" smooth="yes"/>
+      <point x="622.0" y="1470.0"/>
+      <point x="636.484336465" y="1427.84303625"/>
+    </contour>
+  </outline>
+</glyph>

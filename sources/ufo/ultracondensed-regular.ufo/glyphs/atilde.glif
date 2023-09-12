@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde" format="2">
+  <advance height="960" width="378"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <component base="a"/>
+    <component base="tildecomb" xOffset="773.0" yOffset="50.0"/>
+  </outline>
+</glyph>

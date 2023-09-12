@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni201F" format="2">
+  <advance height="1920" width="880"/>
+  <unicode hex="201F"/>
+  <outline>
+    <component base="quotereversed"/>
+    <component base="quotereversed" xOffset="340.0"/>
+  </outline>
+</glyph>
