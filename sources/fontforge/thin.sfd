@@ -107,7 +107,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8288 16 4
+WinInfo: 48 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3776,7 +3776,7 @@ StartChar: uni2070
 Encoding: 8304 8304 132
 Width: 770
 VWidth: 1920
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
