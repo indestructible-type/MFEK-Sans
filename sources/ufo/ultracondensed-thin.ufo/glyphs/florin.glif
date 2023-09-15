@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="florin" format="2">
-  <advance height="1920" width="217"/>
-  <unicode hex="0192"/>
-  <outline>
-    <component base="f"/>
-    <component base="uni0237" xOffset="24.0"/>
-  </outline>
-</glyph>
