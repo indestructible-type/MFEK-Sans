@@ -6,6 +6,8 @@ wooden type from the mid to late 1800s.
 
 MFEK Sans is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io).
 
+![MFEK Sans Animation](https://raw.githubusercontent.com/indestructible-type/MFEK-Sans/main/documentation/specimin.gif)
+
 About
 -----
 MFEK is designed to be highly versatile while also being highly expressive. This is
