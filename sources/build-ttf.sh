@@ -4,6 +4,7 @@ set -e
 #source ../env/bin/activate
 
 fontName="MFEK-Sans"
+fontName_it="MFEK-Sans-Italic"
 
 ##########################################
 
@@ -40,6 +41,17 @@ genttf() {
 	instances="$(xidel -e '//instances/instance/@name' designspace/MFEK-Sans.designspace)"
 	parallel --bar "
 	fontmake -m designspace/$fontName.designspace -i {} -o ttf --output-dir $TT_DIR
+	" <<< "$instances"
+}
+
+[ -z "$NO_REBUILD" ] && genttf
+
+genttf() {
+	TT_DIR=../fonts/ttf
+
+	instances="$(xidel -e '//instances/instance/@name' designspace/MFEK-Sans-Italic.designspace)"
+	parallel --bar "
+	fontmake -m designspace/$fontName_it.designspace -i {} -o ttf --output-dir $TT_DIR
 	" <<< "$instances"
 }
 

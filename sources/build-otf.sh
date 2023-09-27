@@ -4,6 +4,7 @@ set -e
 #source ../env/bin/activate
 
 fontName="MFEK-Sans"
+fontName_it="MFEK-Sans-Italic"
 
 ##########################################
 
@@ -39,6 +40,17 @@ genotf() {
 	instances="$(xidel -e '//instances/instance/@name' designspace/MFEK-Sans.designspace)"
 	parallel --bar "
 	fontmake -m designspace/$fontName.designspace -i {} -o otf --output-dir $TT_DIR
+	" <<< "$instances"
+}
+
+[ -z "$NO_REBUILD" ] && genotf
+
+genotf() {
+	TT_DIR=../fonts/otf
+
+	instances="$(xidel -e '//instances/instance/@name' designspace/MFEK-Sans-Italic.designspace)"
+	parallel --bar "
+	fontmake -m designspace/$fontName_it.designspace -i {} -o otf --output-dir $TT_DIR
 	" <<< "$instances"
 }
 

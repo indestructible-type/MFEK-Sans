@@ -992,7 +992,43 @@
 
             </array>
           </dict>
+
+          <dict>
+            <key>name</key>
+            <string>Italic</string>
+            <key>tag</key>
+            <string>ital</string>
+            <key>locations</key>
+            <array>
+
+              <dict>
+                <key>name</key>
+                <string>Upright</string>
+                <key>value</key>
+                <integer>0</integer>
+                <key>linked_value</key>
+                <integer>1</integer>
+                <key>flags</key>
+                <array>
+                  <string>ElidableAxisValueName</string>
+                </array>
+              </dict>
+
+              <dict>
+                <key>name</key>
+                <string>Italic</string>
+                <key>value</key>
+                <integer>1</integer>
+              </dict>
+
+            </array>
+          </dict>
         </array>
+      </dict>
+      <key>org.statmake.additionalLocations</key>
+      <dict>
+        <key>Italic</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>
