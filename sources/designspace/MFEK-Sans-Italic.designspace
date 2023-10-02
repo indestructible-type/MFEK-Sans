@@ -37,28 +37,28 @@
         <dimension name="Width" xvalue="100"/>
       </location>
     </source> 
-<!--
-    <source filename="../ufo/rounded-regular.ufo" name="MFEK Sans Rounded Italic" familyname="MFEK Sans Rounded" stylename="Regular">
+    <source filename="../ufo/rounded-italic.ufo" name="MFEK Sans Rounded Italic" familyname="MFEK Sans Rounded" stylename="Regular">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
-    <source filename="../ufo/rounded-thin.ufo" name="MFEK Sans Rounded ThinItalic" familyname="MFEK Sans Rounded" stylename="Thin">
+    <source filename="../ufo/rounded-thin-italic.ufo" name="MFEK Sans Rounded ThinItalic" familyname="MFEK Sans Rounded" stylename="Thin">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="100"/>
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
-    <source filename="../ufo/rounded-black.ufo" name="MFEK Sans Rounded BlackItalic" familyname="MFEK Sans Rounded" stylename="Black">
+    <source filename="../ufo/rounded-black-italic.ufo" name="MFEK Sans Rounded BlackItalic" familyname="MFEK Sans Rounded" stylename="Black">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="900"/>
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
+<!--
     <source filename="../ufo/ultracondensed-regular.ufo" name="MFEK Sans Ultra Condensed Italic" familyname="MFEK Sans" stylename="Ultra Condensed Regular">
       <location>
         <dimension name="Rounded" xvalue="0"/>
@@ -470,7 +470,7 @@
       </location>
     </instance>
 
---> <!-- ROUNDED --> <!--
+--> <!-- ROUNDED -->
     <instance postscriptfontname="MFEKSansRounded-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Thin Italic" stylemapfamilyname="MFEK Sans Rounded Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-153-RoundedThin.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
