@@ -105,7 +105,7 @@
   <instances>
 
 <!-- REGULAR -->
-    <instance postscriptfontname="MFEKSans-ThinItalic" familyname="MFEK Sans" name="MFEK Sans Thin Italic" stylemapfamilyname="MFEK Sans Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-151-Thin.ufo">
+    <instance postscriptfontname="MFEKSans-ThinItalic" familyname="MFEK Sans" name="MFEK Sans Thin Italic" stylemapfamilyname="MFEK Sans Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-151-ThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="100"/>
@@ -113,7 +113,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans ExtraLight Italic" stylemapfamilyname="MFEK Sans ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-251-ExtraLight.ufo">
+    <instance postscriptfontname="MFEKSans-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans ExtraLight Italic" stylemapfamilyname="MFEK Sans ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-251-ExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="200"/>
@@ -121,7 +121,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-LightItalic" familyname="MFEK Sans" name="MFEK Sans Light Italic" stylemapfamilyname="MFEK Sans Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-351-Light.ufo">
+    <instance postscriptfontname="MFEKSans-LightItalic" familyname="MFEK Sans" name="MFEK Sans Light Italic" stylemapfamilyname="MFEK Sans Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-351-LightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="300"/>
@@ -129,7 +129,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-Italic" familyname="MFEK Sans" name="MFEK Sans Italic" stylemapfamilyname="MFEK Sans" stylemapstylename="italic" stylename="Italic" filename="../instance_ufo/MFEKSans-451-Italic.ufo">
+    <instance postscriptfontname="MFEKSans-Italic" familyname="MFEK Sans" name="MFEK Sans Italic" stylemapfamilyname="MFEK Sans" stylemapstylename="italic" stylename="Italic" filename="../instance_ufo/MFEKSans-451-ItalicItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
@@ -137,7 +137,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-MediumItalic" familyname="MFEK Sans" name="MFEK Sans Medium Italic" stylemapfamilyname="MFEK Sans Medium" stylemapstylename="italic" stylename="Medium Italic" filename="../instance_ufo/MFEKSans-551-Medium.ufo">
+    <instance postscriptfontname="MFEKSans-MediumItalic" familyname="MFEK Sans" name="MFEK Sans Medium Italic" stylemapfamilyname="MFEK Sans Medium" stylemapstylename="italic" stylename="Medium Italic" filename="../instance_ufo/MFEKSans-551-MediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="470"/>
@@ -145,7 +145,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiBold Italic" stylemapfamilyname="MFEK Sans SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" filename="../instance_ufo/MFEKSans-651-SemiBold.ufo">
+    <instance postscriptfontname="MFEKSans-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiBold Italic" stylemapfamilyname="MFEK Sans SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" filename="../instance_ufo/MFEKSans-651-SemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="550"/>
@@ -153,7 +153,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-BoldItalic" familyname="MFEK Sans" name="MFEK Sans Bold Italic" stylemapfamilyname="MFEK Sans" stylemapstylename="bold italic" stylename="Bold Italic" filename="../instance_ufo/MFEKSans-751-Bold.ufo">
+    <instance postscriptfontname="MFEKSans-BoldItalic" familyname="MFEK Sans" name="MFEK Sans Bold Italic" stylemapfamilyname="MFEK Sans" stylemapstylename="bold italic" stylename="Bold Italic" filename="../instance_ufo/MFEKSans-751-BoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="650"/>
@@ -161,7 +161,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraBold Italic" stylemapfamilyname="MFEK Sans ExtraBold" stylemapstylename="italic" stylename="ExtraBold Italic" filename="../instance_ufo/MFEKSans-851-ExtraBold.ufo">
+    <instance postscriptfontname="MFEKSans-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraBold Italic" stylemapfamilyname="MFEK Sans ExtraBold" stylemapstylename="italic" stylename="ExtraBold Italic" filename="../instance_ufo/MFEKSans-851-ExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="766"/>
@@ -169,7 +169,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSans-BlackItalic" familyname="MFEK Sans" name="MFEK Sans Black Italic" stylemapfamilyname="MFEK Sans Black" stylemapstylename="italic" stylename="Black Italic" filename="../instance_ufo/MFEKSans-951-Black.ufo">
+    <instance postscriptfontname="MFEKSans-BlackItalic" familyname="MFEK Sans" name="MFEK Sans Black Italic" stylemapfamilyname="MFEK Sans Black" stylemapstylename="italic" stylename="Black Italic" filename="../instance_ufo/MFEKSans-951-BlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="900"/>
@@ -178,7 +178,7 @@
     </instance>
 
 <!-- SemiCondensed -->
-    <instance postscriptfontname="MFEKSansSemiCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Thin Italic" stylemapfamilyname="MFEK Sans SemiCondensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-141-SemiCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Thin Italic" stylemapfamilyname="MFEK Sans SemiCondensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-141-SemiCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="100"/>
@@ -186,7 +186,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans SemiCondensed ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-241-SemiCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans SemiCondensed ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-241-SemiCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="200"/>
@@ -194,7 +194,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Light Italic" stylemapfamilyname="MFEK Sans Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-341-SemiCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Light Italic" stylemapfamilyname="MFEK Sans Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-341-SemiCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="300"/>
@@ -202,7 +202,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Italic" stylemapfamilyname="MFEK Sans SemiCondensed" stylemapstylename="italic" stylename="SemiCondensed Italic" filename="../instance_ufo/MFEKSans-441-SemiCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Italic" stylemapfamilyname="MFEK Sans SemiCondensed" stylemapstylename="italic" stylename="SemiCondensed Italic" filename="../instance_ufo/MFEKSans-441-SemiCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
@@ -210,7 +210,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Medium Italic" stylemapfamilyname="MFEK Sans SemiCondensed Medium" stylemapstylename="italic" stylename="SemiCondensed Medium Italic" filename="../instance_ufo/MFEKSans-541-SemiCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Medium Italic" stylemapfamilyname="MFEK Sans SemiCondensed Medium" stylemapstylename="italic" stylename="SemiCondensed Medium Italic" filename="../instance_ufo/MFEKSans-541-SemiCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="470"/>
@@ -218,7 +218,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans SemiCondensed SemiBold" stylemapstylename="italic" stylename="SemiCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-641-SemiCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans SemiCondensed SemiBold" stylemapstylename="italic" stylename="SemiCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-641-SemiCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="550"/>
@@ -226,7 +226,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Bold Italic" stylemapfamilyname="MFEK Sans SemiCondensed" stylemapstylename="bold italic" stylename="SemiCondensed Bold Italic" filename="../instance_ufo/MFEKSans-741-SemiCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Bold Italic" stylemapfamilyname="MFEK Sans SemiCondensed" stylemapstylename="bold italic" stylename="SemiCondensed Bold Italic" filename="../instance_ufo/MFEKSans-741-SemiCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="650"/>
@@ -234,7 +234,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans SemiCondensed ExtraBold" stylemapstylename="italic" stylename="SemiCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-841-SemiCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans SemiCondensed ExtraBold" stylemapstylename="italic" stylename="SemiCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-841-SemiCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="766"/>
@@ -242,7 +242,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansSemiCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Black Italic" stylemapfamilyname="MFEK Sans SemiCondensed Black" stylemapstylename="italic" stylename="SemiCondensed Black Italic" filename="../instance_ufo/MFEKSans-941-SemiCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansSemiCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans SemiCondensed Black Italic" stylemapfamilyname="MFEK Sans SemiCondensed Black" stylemapstylename="italic" stylename="SemiCondensed Black Italic" filename="../instance_ufo/MFEKSans-941-SemiCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="900"/>
@@ -251,7 +251,7 @@
     </instance>
 
 <!-- Condensed -->
-    <instance postscriptfontname="MFEKSansCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Thin Italic" stylemapfamilyname="MFEK Sans Condensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-131-CondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Thin Italic" stylemapfamilyname="MFEK Sans Condensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-131-CondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="100"/>
@@ -259,7 +259,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans Condensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Condensed ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-231-CondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans Condensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Condensed ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-231-CondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="200"/>
@@ -267,7 +267,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Light Italic" stylemapfamilyname="MFEK Sans Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-331-CondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Light Italic" stylemapfamilyname="MFEK Sans Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-331-CondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="300"/>
@@ -275,7 +275,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans Condensed Italic" stylemapfamilyname="MFEK Sans Condensed" stylemapstylename="italic" stylename="Condensed Italic" filename="../instance_ufo/MFEKSans-431-CondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans Condensed Italic" stylemapfamilyname="MFEK Sans Condensed" stylemapstylename="italic" stylename="Condensed Italic" filename="../instance_ufo/MFEKSans-431-CondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
@@ -283,7 +283,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Medium Italic" stylemapfamilyname="MFEK Sans Condensed Medium" stylemapstylename="italic" stylename="Condensed Medium Italic" filename="../instance_ufo/MFEKSans-531-CondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Medium Italic" stylemapfamilyname="MFEK Sans Condensed Medium" stylemapstylename="italic" stylename="Condensed Medium Italic" filename="../instance_ufo/MFEKSans-531-CondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="470"/>
@@ -291,7 +291,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans Condensed SemiBold Italic" stylemapfamilyname="MFEK Sans Condensed SemiBold" stylemapstylename="italic" stylename="Condensed SemiBold Italic" filename="../instance_ufo/MFEKSans-631-CondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans Condensed SemiBold Italic" stylemapfamilyname="MFEK Sans Condensed SemiBold" stylemapstylename="italic" stylename="Condensed SemiBold Italic" filename="../instance_ufo/MFEKSans-631-CondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="550"/>
@@ -299,7 +299,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Bold Italic" stylemapfamilyname="MFEK Sans Condensed" stylemapstylename="bold italic" stylename="Condensed Bold Italic" filename="../instance_ufo/MFEKSans-731-CondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Bold Italic" stylemapfamilyname="MFEK Sans Condensed" stylemapstylename="bold italic" stylename="Condensed Bold Italic" filename="../instance_ufo/MFEKSans-731-CondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="650"/>
@@ -307,7 +307,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans Condensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Condensed ExtraBold" stylemapstylename="italic" stylename="Condensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-831-CondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans Condensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Condensed ExtraBold" stylemapstylename="italic" stylename="Condensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-831-CondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="766"/>
@@ -315,7 +315,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Black Italic" stylemapfamilyname="MFEK Sans Condensed Black" stylemapstylename="italic" stylename="Condensed Black Italic" filename="../instance_ufo/MFEKSans-931-CondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans Condensed Black Italic" stylemapfamilyname="MFEK Sans Condensed Black" stylemapstylename="italic" stylename="Condensed Black Italic" filename="../instance_ufo/MFEKSans-931-CondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="900"/>
@@ -324,7 +324,7 @@
     </instance>
 
 <!-- ExtraCondensed -->
-    <instance postscriptfontname="MFEKSansExtraCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Thin Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-121-ExtraCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Thin Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-121-ExtraCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="100"/>
@@ -332,7 +332,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans ExtraCondensed ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-221-ExtraCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans ExtraCondensed ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-221-ExtraCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="200"/>
@@ -340,7 +340,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Light Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-321-ExtraCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Light Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-321-ExtraCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="300"/>
@@ -348,7 +348,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Italic" stylemapfamilyname="MFEK Sans ExtraCondensed" stylemapstylename="italic" stylename="ExtraCondensed Italic" filename="../instance_ufo/MFEKSans-421-ExtraCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Italic" stylemapfamilyname="MFEK Sans ExtraCondensed" stylemapstylename="italic" stylename="ExtraCondensed Italic" filename="../instance_ufo/MFEKSans-421-ExtraCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
@@ -356,7 +356,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Medium Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Medium" stylemapstylename="italic" stylename="ExtraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-521-ExtraCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Medium Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Medium" stylemapstylename="italic" stylename="ExtraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-521-ExtraCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="470"/>
@@ -364,7 +364,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans ExtraCondensed SemiBold" stylemapstylename="italic" stylename="ExtraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-621-ExtraCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans ExtraCondensed SemiBold" stylemapstylename="italic" stylename="ExtraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-621-ExtraCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="550"/>
@@ -372,7 +372,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Bold Italic" stylemapfamilyname="MFEK Sans ExtraCondensed" stylemapstylename="bold italic" stylename="ExtraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-721-ExtraCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Bold Italic" stylemapfamilyname="MFEK Sans ExtraCondensed" stylemapstylename="bold italic" stylename="ExtraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-721-ExtraCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="650"/>
@@ -380,7 +380,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans ExtraCondensed ExtraBold" stylemapstylename="italic" stylename="ExtraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-821-ExtraCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans ExtraCondensed ExtraBold" stylemapstylename="italic" stylename="ExtraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-821-ExtraCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="766"/>
@@ -388,7 +388,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansExtraCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Black Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Black" stylemapstylename="italic" stylename="ExtraCondensed Black Italic" filename="../instance_ufo/MFEKSans-921-ExtraCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansExtraCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans ExtraCondensed Black Italic" stylemapfamilyname="MFEK Sans ExtraCondensed Black" stylemapstylename="italic" stylename="ExtraCondensed Black Italic" filename="../instance_ufo/MFEKSans-921-ExtraCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="900"/>
@@ -397,7 +397,7 @@
     </instance>
 
 <!-- UltraCondensed -->
-    <instance postscriptfontname="MFEKSansUltraCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Thin Italic" stylemapfamilyname="MFEK Sans UltraCondensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-111-UltraCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-ThinItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Thin Italic" stylemapfamilyname="MFEK Sans UltraCondensed Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-111-UltraCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="100"/>
@@ -405,7 +405,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans ExtraCondensed UltraCondensed" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-211-UltraCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-ExtraLightItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans ExtraCondensed UltraCondensed" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-211-UltraCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="200"/>
@@ -413,7 +413,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Light Italic" stylemapfamilyname="MFEK Sans UltraCondensed Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-311-UltraCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-LightItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Light Italic" stylemapfamilyname="MFEK Sans UltraCondensed Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-311-UltraCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="300"/>
@@ -421,7 +421,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Italic" stylemapfamilyname="MFEK Sans UltraCondensed" stylemapstylename="italic" stylename="UltraCondensed Italic" filename="../instance_ufo/MFEKSans-411-UltraCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-Italic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Italic" stylemapfamilyname="MFEK Sans UltraCondensed" stylemapstylename="italic" stylename="UltraCondensed Italic" filename="../instance_ufo/MFEKSans-411-UltraCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
@@ -429,7 +429,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Medium Italic" stylemapfamilyname="MFEK Sans UltraCondensed Medium" stylemapstylename="italic" stylename="UltraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-511-UltraCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-MediumItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Medium Italic" stylemapfamilyname="MFEK Sans UltraCondensed Medium" stylemapstylename="italic" stylename="UltraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-511-UltraCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="470"/>
@@ -437,7 +437,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans UltraCondensed SemiBold" stylemapstylename="italic" stylename="UltraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-611-UltraCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-SemiBoldItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans UltraCondensed SemiBold" stylemapstylename="italic" stylename="UltraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-611-UltraCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="550"/>
@@ -445,7 +445,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Bold Italic" stylemapfamilyname="MFEK Sans UltraCondensed" stylemapstylename="bold italic" stylename="UltraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-711-UltraCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-BoldItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Bold Italic" stylemapfamilyname="MFEK Sans UltraCondensed" stylemapstylename="bold italic" stylename="UltraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-711-UltraCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="650"/>
@@ -453,7 +453,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans UltraCondensed ExtraBold" stylemapstylename="italic" stylename="UltraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-811-UltraCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-ExtraBoldItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans UltraCondensed ExtraBold" stylemapstylename="italic" stylename="UltraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-811-UltraCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="766"/>
@@ -461,7 +461,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansUltraCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Black Italic" stylemapfamilyname="MFEK Sans UltraCondensed Black" stylemapstylename="italic" stylename="UltraCondensed Black Italic" filename="../instance_ufo/MFEKSans-911-UltraCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansUltraCondensed-BlackItalic" familyname="MFEK Sans" name="MFEK Sans UltraCondensed Black Italic" stylemapfamilyname="MFEK Sans UltraCondensed Black" stylemapstylename="italic" stylename="UltraCondensed Black Italic" filename="../instance_ufo/MFEKSans-911-UltraCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="0"/>
         <dimension name="Weight" xvalue="900"/>
@@ -470,7 +470,7 @@
     </instance>
 
 <!-- ROUNDED -->
-    <instance postscriptfontname="MFEKSansRounded-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Thin Italic" stylemapfamilyname="MFEK Sans Rounded Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-153-RoundedThin.ufo">
+    <instance postscriptfontname="MFEKSansRounded-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Thin Italic" stylemapfamilyname="MFEK Sans Rounded Thin" stylemapstylename="italic" stylename="Thin Italic" filename="../instance_ufo/MFEKSans-153-RoundedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="100"/>
@@ -478,7 +478,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-253-RoundedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansRounded-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" filename="../instance_ufo/MFEKSans-253-RoundedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="200"/>
@@ -486,7 +486,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Light Italic" stylemapfamilyname="MFEK Sans Rounded Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-353-RoundedLight.ufo">
+    <instance postscriptfontname="MFEKSansRounded-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Light Italic" stylemapfamilyname="MFEK Sans Rounded Light" stylemapstylename="italic" stylename="Light Italic" filename="../instance_ufo/MFEKSans-353-RoundedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="300"/>
@@ -494,7 +494,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Italic" stylemapfamilyname="MFEK Sans Rounded" stylemapstylename="italic" stylename="Italic" filename="../instance_ufo/MFEKSans-453-Rounded-Italic.ufo">
+    <instance postscriptfontname="MFEKSansRounded-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Italic" stylemapfamilyname="MFEK Sans Rounded" stylemapstylename="italic" stylename="Italic" filename="../instance_ufo/MFEKSans-453-Rounded-ItalicItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="400"/>
@@ -502,7 +502,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Medium Italic" stylemapfamilyname="MFEK Sans Rounded Medium" stylemapstylename="italic" stylename="Medium Italic" filename="../instance_ufo/MFEKSans-553-RoundedMedium.ufo">
+    <instance postscriptfontname="MFEKSansRounded-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Medium Italic" stylemapfamilyname="MFEK Sans Rounded Medium" stylemapstylename="italic" stylename="Medium Italic" filename="../instance_ufo/MFEKSans-553-RoundedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="470"/>
@@ -510,7 +510,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" filename="../instance_ufo/MFEKSans-653-RoundedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansRounded-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" filename="../instance_ufo/MFEKSans-653-RoundedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="550"/>
@@ -518,7 +518,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Bold Italic" stylemapfamilyname="MFEK Sans Rounded" stylemapstylename="bold italic" stylename="Bold Italic" filename="../instance_ufo/MFEKSans-753-RoundedBold.ufo">
+    <instance postscriptfontname="MFEKSansRounded-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Bold Italic" stylemapfamilyname="MFEK Sans Rounded" stylemapstylename="bold italic" stylename="Bold Italic" filename="../instance_ufo/MFEKSans-753-RoundedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="650"/>
@@ -526,7 +526,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRounded-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraBold" stylemapstylename="italic" stylename="ExtraBold Italic" filename="../instance_ufo/MFEKSans-853-RoundedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansRounded-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraBold" stylemapstylename="italic" stylename="ExtraBold Italic" filename="../instance_ufo/MFEKSans-853-RoundedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="766"/>
@@ -534,7 +534,7 @@
       </location>
     </instance>
     
-    <instance postscriptfontname="MFEKSansRounded-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Black Italic" stylemapfamilyname="MFEK Sans Rounded Black" stylemapstylename="italic" stylename="Black Italic" filename="../instance_ufo/MFEKSans-953-RoundedBlack.ufo">
+    <instance postscriptfontname="MFEKSansRounded-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Black Italic" stylemapfamilyname="MFEK Sans Rounded Black" stylemapstylename="italic" stylename="Black Italic" filename="../instance_ufo/MFEKSans-953-RoundedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="900"/>
@@ -543,7 +543,7 @@
     </instance>
 
 <!-- SemiCondensed -->
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Thin" stylemapstylename="italic" stylename="SemiCondensed Thin Italic" filename="../instance_ufo/MFEKSans-143-RoundedSemiCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Thin" stylemapstylename="italic" stylename="SemiCondensed Thin Italic" filename="../instance_ufo/MFEKSans-143-RoundedSemiCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="100"/>
@@ -551,7 +551,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed ExtraLight" stylemapstylename="italic" stylename="SemiCondensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-243-RoundedSemiCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed ExtraLight" stylemapstylename="italic" stylename="SemiCondensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-243-RoundedSemiCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="200"/>
@@ -559,7 +559,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Light Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Light" stylemapstylename="italic" stylename="SemiCondensed Light Italic" filename="../instance_ufo/MFEKSans-343-RoundedSemiCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Light Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Light" stylemapstylename="italic" stylename="SemiCondensed Light Italic" filename="../instance_ufo/MFEKSans-343-RoundedSemiCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="300"/>
@@ -567,7 +567,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed" stylemapstylename="italic" stylename="SemiCondensed Italic" filename="../instance_ufo/MFEKSans-443-RoundedSemiCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed" stylemapstylename="italic" stylename="SemiCondensed Italic" filename="../instance_ufo/MFEKSans-443-RoundedSemiCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="400"/>
@@ -575,7 +575,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Medium" stylemapstylename="italic" stylename="SemiCondensed Medium Italic" filename="../instance_ufo/MFEKSans-543-RoundedSemiCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Medium" stylemapstylename="italic" stylename="SemiCondensed Medium Italic" filename="../instance_ufo/MFEKSans-543-RoundedSemiCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="470"/>
@@ -583,7 +583,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed SemiBold" stylemapstylename="italic" stylename="SemiCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-643-RoundedSemiCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed SemiBold" stylemapstylename="italic" stylename="SemiCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-643-RoundedSemiCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="550"/>
@@ -591,7 +591,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed" stylemapstylename="bold italic" stylename="SemiCondensed Bold Italic" filename="../instance_ufo/MFEKSans-743-RoundedSemiCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed" stylemapstylename="bold italic" stylename="SemiCondensed Bold Italic" filename="../instance_ufo/MFEKSans-743-RoundedSemiCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="650"/>
@@ -599,7 +599,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed ExtraBold" stylemapstylename="italic" stylename="SemiCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-843-RoundedSemiCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed ExtraBold" stylemapstylename="italic" stylename="SemiCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-843-RoundedSemiCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="766"/>
@@ -607,7 +607,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Black Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Black" stylemapstylename="italic" stylename="SemiCondensed Black Italic" filename="../instance_ufo/MFEKSans-943-RoundedSemiCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansRoundedSemiCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded SemiCondensed Black Italic" stylemapfamilyname="MFEK Sans Rounded SemiCondensed Black" stylemapstylename="italic" stylename="SemiCondensed Black Italic" filename="../instance_ufo/MFEKSans-943-RoundedSemiCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="900"/>
@@ -616,7 +616,7 @@
     </instance>
 
 <!-- Condensed -->
-    <instance postscriptfontname="MFEKSansRoundedCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Thin" stylemapstylename="italic" stylename="Condensed Thin Italic" filename="../instance_ufo/MFEKSans-133-RoundedCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Thin" stylemapstylename="italic" stylename="Condensed Thin Italic" filename="../instance_ufo/MFEKSans-133-RoundedCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="100"/>
@@ -624,7 +624,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded Condensed ExtraLight" stylemapstylename="italic" stylename="Condensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-233-RoundedCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded Condensed ExtraLight" stylemapstylename="italic" stylename="Condensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-233-RoundedCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="200"/>
@@ -632,7 +632,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Light Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Light" stylemapstylename="italic" stylename="Condensed Light Italic" filename="../instance_ufo/MFEKSans-333-RoundedCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Light Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Light" stylemapstylename="italic" stylename="Condensed Light Italic" filename="../instance_ufo/MFEKSans-333-RoundedCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="300"/>
@@ -640,7 +640,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Italic" stylemapfamilyname="MFEK Sans Rounded Condensed" stylemapstylename="italic" stylename="Condensed Italic" filename="../instance_ufo/MFEKSans-433-RoundedCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Italic" stylemapfamilyname="MFEK Sans Rounded Condensed" stylemapstylename="italic" stylename="Condensed Italic" filename="../instance_ufo/MFEKSans-433-RoundedCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="400"/>
@@ -648,7 +648,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Medium" stylemapstylename="italic" stylename="Condensed Medium Italic" filename="../instance_ufo/MFEKSans-533-RoundedCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Medium" stylemapstylename="italic" stylename="Condensed Medium Italic" filename="../instance_ufo/MFEKSans-533-RoundedCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="470"/>
@@ -656,7 +656,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded Condensed SemiBold" stylemapstylename="italic" stylename="Condensed SemiBold Italic" filename="../instance_ufo/MFEKSans-633-RoundedCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded Condensed SemiBold" stylemapstylename="italic" stylename="Condensed SemiBold Italic" filename="../instance_ufo/MFEKSans-633-RoundedCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="550"/>
@@ -664,7 +664,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded Condensed" stylemapstylename="bold italic" stylename="Condensed Bold Italic" filename="../instance_ufo/MFEKSans-733-RoundedCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded Condensed" stylemapstylename="bold italic" stylename="Condensed Bold Italic" filename="../instance_ufo/MFEKSans-733-RoundedCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="650"/>
@@ -672,7 +672,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded Condensed ExtraBold" stylemapstylename="italic" stylename="Condensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-833-RoundedCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded Condensed ExtraBold" stylemapstylename="italic" stylename="Condensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-833-RoundedCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="766"/>
@@ -680,7 +680,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Black Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Black" stylemapstylename="italic" stylename="Condensed Black Italic" filename="../instance_ufo/MFEKSans-933-RoundedCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansRoundedCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded Condensed Black Italic" stylemapfamilyname="MFEK Sans Rounded Condensed Black" stylemapstylename="italic" stylename="Condensed Black Italic" filename="../instance_ufo/MFEKSans-933-RoundedCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="900"/>
@@ -689,7 +689,7 @@
     </instance>
 
 <!-- ExtraCondensed -->
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Thin" stylemapstylename="italic" stylename="ExtraCondensed Thin Italic" filename="../instance_ufo/MFEKSans-123-RoundedExtraCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Thin" stylemapstylename="italic" stylename="ExtraCondensed Thin Italic" filename="../instance_ufo/MFEKSans-123-RoundedExtraCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="100"/>
@@ -697,7 +697,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed ExtraLight" stylemapstylename="italic" stylename="ExtraCondensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-223-RoundedExtraCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed ExtraLight" stylemapstylename="italic" stylename="ExtraCondensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-223-RoundedExtraCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="200"/>
@@ -705,7 +705,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Light Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Light" stylemapstylename="italic" stylename="ExtraCondensed Light Italic" filename="../instance_ufo/MFEKSans-323-RoundedExtraCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Light Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Light" stylemapstylename="italic" stylename="ExtraCondensed Light Italic" filename="../instance_ufo/MFEKSans-323-RoundedExtraCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="300"/>
@@ -713,7 +713,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed" stylemapstylename="italic" stylename="ExtraCondensed Italic" filename="../instance_ufo/MFEKSans-423-RoundedExtraCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed" stylemapstylename="italic" stylename="ExtraCondensed Italic" filename="../instance_ufo/MFEKSans-423-RoundedExtraCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="400"/>
@@ -721,7 +721,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Medium" stylemapstylename="italic" stylename="ExtraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-523-RoundedExtraCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Medium" stylemapstylename="italic" stylename="ExtraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-523-RoundedExtraCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="470"/>
@@ -729,7 +729,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed SemiBold" stylemapstylename="italic" stylename="ExtraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-623-RoundedExtraCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed SemiBold" stylemapstylename="italic" stylename="ExtraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-623-RoundedExtraCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="550"/>
@@ -737,7 +737,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed" stylemapstylename="bold italic" stylename="ExtraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-723-RoundedExtraCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed" stylemapstylename="bold italic" stylename="ExtraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-723-RoundedExtraCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="650"/>
@@ -745,7 +745,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed ExtraBold" stylemapstylename="italic" stylename="ExtraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-823-RoundedExtraCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed ExtraBold" stylemapstylename="italic" stylename="ExtraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-823-RoundedExtraCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="766"/>
@@ -753,7 +753,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Black Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Black" stylemapstylename="italic" stylename="ExtraCondensed Black Italic" filename="../instance_ufo/MFEKSans-923-RoundedExtraCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansRoundedExtraCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded ExtraCondensed Black Italic" stylemapfamilyname="MFEK Sans Rounded ExtraCondensed Black" stylemapstylename="italic" stylename="ExtraCondensed Black Italic" filename="../instance_ufo/MFEKSans-923-RoundedExtraCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="900"/>
@@ -762,7 +762,7 @@
     </instance>
 
 <!-- UltraCondensed -->
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Thin" stylemapstylename="italic" stylename="UltraCondensed Thin Italic" filename="../instance_ufo/MFEKSans-113-RoundedUltraCondensedThin.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-ThinItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Thin Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Thin" stylemapstylename="italic" stylename="UltraCondensed Thin Italic" filename="../instance_ufo/MFEKSans-113-RoundedUltraCondensedThinItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="100"/>
@@ -770,7 +770,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed ExtraLight" stylemapstylename="italic" stylename="UltraCondensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-213-RoundedUltraCondensedExtraLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-ExtraLightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed ExtraLight Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed ExtraLight" stylemapstylename="italic" stylename="UltraCondensed ExtraLight Italic" filename="../instance_ufo/MFEKSans-213-RoundedUltraCondensedExtraLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="200"/>
@@ -778,7 +778,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Light Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Light" stylemapstylename="italic" stylename="UltraCondensed Light Italic" filename="../instance_ufo/MFEKSans-313-RoundedUltraCondensedLight.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-LightItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Light Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Light" stylemapstylename="italic" stylename="UltraCondensed Light Italic" filename="../instance_ufo/MFEKSans-313-RoundedUltraCondensedLightItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="300"/>
@@ -786,7 +786,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed" stylemapstylename="italic" stylename="UltraCondensed Italic" filename="../instance_ufo/MFEKSans-413-RoundedUltraCondensedRegular.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-Italic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed" stylemapstylename="italic" stylename="UltraCondensed Italic" filename="../instance_ufo/MFEKSans-413-RoundedUltraCondensedItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="400"/>
@@ -794,7 +794,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Medium" stylemapstylename="italic" stylename="UltraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-513-RoundedUltraCondensedMedium.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-MediumItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Medium Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Medium" stylemapstylename="italic" stylename="UltraCondensed Medium Italic" filename="../instance_ufo/MFEKSans-513-RoundedUltraCondensedMediumItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="470"/>
@@ -802,7 +802,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed SemiBold" stylemapstylename="italic" stylename="UltraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-613-RoundedUltraCondensedSemiBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-SemiBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed SemiBold Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed SemiBold" stylemapstylename="italic" stylename="UltraCondensed SemiBold Italic" filename="../instance_ufo/MFEKSans-613-RoundedUltraCondensedSemiBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="550"/>
@@ -810,7 +810,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed" stylemapstylename="bold italic" stylename="UltraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-713-RoundedUltraCondensedBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-BoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Bold Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed" stylemapstylename="bold italic" stylename="UltraCondensed Bold Italic" filename="../instance_ufo/MFEKSans-713-RoundedUltraCondensedBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="650"/>
@@ -818,7 +818,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed ExtraBold" stylemapstylename="italic" stylename="UltraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-813-RoundedUltraCondensedExtraBold.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-ExtraBoldItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed ExtraBold Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed ExtraBold" stylemapstylename="italic" stylename="UltraCondensed ExtraBold Italic" filename="../instance_ufo/MFEKSans-813-RoundedUltraCondensedExtraBoldItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="766"/>
@@ -826,7 +826,7 @@
       </location>
     </instance>
 
-    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Black Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Black" stylemapstylename="italic" stylename="UltraCondensed Black Italic" filename="../instance_ufo/MFEKSans-913-RoundedUltraCondensedBlack.ufo">
+    <instance postscriptfontname="MFEKSansRoundedUltraCondensed-BlackItalic" familyname="MFEK Sans Rounded" name="MFEK Sans Rounded UltraCondensed Black Italic" stylemapfamilyname="MFEK Sans Rounded UltraCondensed Black" stylemapstylename="italic" stylename="UltraCondensed Black Italic" filename="../instance_ufo/MFEKSans-913-RoundedUltraCondensedBlackItalic.ufo">
       <location>
         <dimension name="Rounded" xvalue="1000"/>
         <dimension name="Weight" xvalue="900"/>

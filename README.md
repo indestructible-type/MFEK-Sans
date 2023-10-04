@@ -20,6 +20,9 @@ Foundation](https://mfek.org/foundation/).
 
 Changelog
 ---------
+<b>v0.03β</b>
+* Drew italic
+
 <b>v0.02β</b>
 * Various build system improvements.
 * Moved ĥ's circumflex position.
