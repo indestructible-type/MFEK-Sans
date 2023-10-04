@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0269536"
-     inkscape:cx="29.699492"
-     inkscape:cy="830.12514"
+     inkscape:zoom="0.68881921"
+     inkscape:cx="164.04885"
+     inkscape:cy="614.82025"
      inkscape:window-width="1920"
      inkscape:window-height="1044"
      inkscape:window-x="0"
@@ -154,54 +154,6 @@
        width="749.01424"
        height="714.38308"
        id="rect51082" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect16195" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect19195" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect20919" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect23237" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect24279" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect26509" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect27287" />
-    <rect
-       x="22.779337"
-       y="34.636784"
-       width="749.01424"
-       height="714.38308"
-       id="rect29157" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -209,27 +161,119 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:18.0847px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Thin';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.26595;fill:#241c1c"
-       x="103.64644"
-       y="60.893208"
-       id="text34607"
-       transform="scale(1.005167,0.99485956)"><tspan
-         sodipodi:role="line"
-         id="tspan34605"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:18.0847px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Thin';stroke-width:0.26595;fill:#241c1c"
-         x="103.64644"
-         y="60.893208">Electrical Charging</tspan></text>
+       transform="matrix(2.2774413,0,0,2.2768442,-800.08055,-35.975963)"
+       id="text34696"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-size:20px;line-height:0.9;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy Ultra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect34698);fill:#241c1c"
+       x="28.639898"
+       y="0"><tspan
+         x="369.13622"
+         y="48.562092"
+         id="tspan19567"><tspan
+           style="font-style:italic"
+           id="tspan19565">government</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="65.957779"
+       transform="matrix(2.4322911,0,0,2.2768442,-861.64392,11.649039)"
+       id="text39360"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:extra-condensed;font-size:20px;line-height:0.9;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy Extra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect39362);fill:#241c1c"
+       x="39.629879"
+       y="0"><tspan
+         x="370.39622"
+         y="48.562092"
+         id="tspan19571"><tspan
+           style="font-style:italic"
+           id="tspan19569">greators</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(2.196709,0,0,2.2768442,-767.97469,59.274041)"
+       id="text46474"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:20px;line-height:0.9;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect46476);fill:#241c1c"
+       x="39.629879"
+       y="0"><tspan
+         x="368.22621"
+         y="48.562092"
+         id="tspan19575"><tspan
+           style="font-style:italic"
+           id="tspan19573">giraffes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(2.1923294,0,0,2.2768442,-765.9821,106.89903)"
+       id="text48332"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:semi-condensed;font-size:20px;line-height:0.9;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect48334);fill:#241c1c"
+       x="39.629879"
+       y="0"><tspan
+         x="366.2262"
+         y="48.562092"
+         id="tspan19579"><tspan
+           style="font-style:italic"
+           id="tspan19577">grands</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(2.5166855,0,0,2.2768442,-894.59263,154.52406)"
+       id="text51080"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:0.9;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect51082);fill:#241c1c"
+       x="39.629879"
+       y="0"><tspan
+         x="369.20618"
+         y="48.562092"
+         id="tspan19583"><tspan
+           style="font-style:italic"
+           id="tspan19581">grims</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#501616;stroke-width:0.264583"
+       x="70.653168"
+       y="80.441154"
        id="text64978"><tspan
          sodipodi:role="line"
          id="tspan64976"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="65.957779">THIN</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#501616;stroke-width:0.264583"
+         x="70.653168"
+         y="80.441154">ULTRA-CONDENSED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#501616;stroke-width:0.264583"
+       x="70.653168"
+       y="128.06616"
+       id="text81920"><tspan
+         sodipodi:role="line"
+         id="tspan81918"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#501616;stroke-width:0.264583"
+         x="70.653168"
+         y="128.06616">EXTRA-CONDENSED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#501616;stroke-width:0.264583"
+       x="70.653168"
+       y="175.69119"
+       id="text81924"><tspan
+         sodipodi:role="line"
+         id="tspan81922"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#501616;stroke-width:0.264583"
+         x="70.653168"
+         y="175.69119">CONDENSED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#501616;stroke-width:0.264583"
+       x="70.653168"
+       y="223.31628"
+       id="text81928"><tspan
+         sodipodi:role="line"
+         id="tspan81926"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#501616;stroke-width:0.264583"
+         x="70.653168"
+         y="223.31628">SEMI-CONDENSED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#501616;stroke-width:0.264583"
+       x="70.653168"
+       y="270.94125"
+       id="text81932"><tspan
+         sodipodi:role="line"
+         id="tspan81930"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#501616;stroke-width:0.264583"
+         x="70.653168"
+         y="270.94125">REGULAR</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.9375px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';letter-spacing:0px;word-spacing:0px;fill:#241c1c;stroke-width:0.264583"
@@ -240,192 +284,6 @@
          id="tspan99838"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.9375px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:center;text-anchor:middle;fill:#241c1c;stroke-width:0.264583"
          x="104.98016"
-         y="26.46615">MFEK Sans</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.1491px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.266898;fill:#241c1c"
-       x="103.86226"
-       y="138.65501"
-       id="text50591"
-       transform="scale(1.0087509,0.99132504)"><tspan
-         sodipodi:role="line"
-         id="tspan50589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.1491px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans';stroke-width:0.266898;fill:#241c1c"
-         x="103.86226"
-         y="138.65501">Fantastic Wizard</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.7446px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.260949;fill:#241c1c"
-       x="106.28924"
-       y="85.020187"
-       id="text50595"
-       transform="scale(0.98626508,1.0139262)"><tspan
-         sodipodi:role="line"
-         id="tspan50593"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.7446px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Ultra-Light';stroke-width:0.260949;fill:#241c1c"
-         x="106.28924"
-         y="85.020187">Sleepwalking Café<tspan
-   style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.7446px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Ultra-Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#241c1c;fill-opacity:1;stroke-width:0.260949;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-   id="tspan72939" /></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.1613px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.267077;fill:#241c1c"
-       x="103.70654"
-       y="112.88239"
-       id="text50599"
-       transform="scale(1.0094269,0.99066113)"><tspan
-         sodipodi:role="line"
-         id="tspan50597"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.1613px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Light';stroke-width:0.267077;fill:#241c1c"
-         x="103.70654"
-         y="112.88239">California Quality</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.8808px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.262952;fill:#241c1c"
-       x="105.58852"
-       y="162.07117"
-       id="text50603"
-       transform="scale(0.99383713,1.0062011)"><tspan
-         sodipodi:role="line"
-         id="tspan50601"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.8808px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Medium';stroke-width:0.262952;fill:#241c1c"
-         x="105.58852"
-         y="162.07117">Soup Handsome</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.6304px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.25927;fill:#241c1c"
-       x="107.11639"
-       y="184.91101"
-       id="text50607"
-       transform="scale(0.97991958,1.0204919)"><tspan
-         sodipodi:role="line"
-         id="tspan50605"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.6304px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Semi-Bold';stroke-width:0.25927;fill:#241c1c"
-         x="107.11639"
-         y="184.91101">Jet-Powerd Boat</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.9437px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.263877;fill:#241c1c"
-       x="105.07414"
-       y="213.752"
-       id="text50611"
-       transform="scale(0.99733027,1.0026769)"><tspan
-         sodipodi:role="line"
-         id="tspan50609"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.9437px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';stroke-width:0.263877;fill:#241c1c"
-         x="105.07414"
-         y="213.752">Monday Mantra</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.9553px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264048;fill:#241c1c"
-       x="104.90306"
-       y="239.46291"
-       id="text50615"
-       transform="scale(0.9979775,1.0020266)"><tspan
-         sodipodi:role="line"
-         id="tspan50613"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.9553px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Ultra-Bold';stroke-width:0.264048;fill:#241c1c"
-         x="104.90306"
-         y="239.46291">Excited Voyeur</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.2175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.267903;fill:#241c1c"
-       x="103.63033"
-       y="268.905"
-       id="text50619"
-       transform="scale(1.0125494,0.98760611)"><tspan
-         sodipodi:role="line"
-         id="tspan50617"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.2175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Heavy';stroke-width:0.267903;fill:#241c1c"
-         x="103.63033"
-         y="268.905">Truthful Taste</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="91.581772"
-       id="text100518"><tspan
-         sodipodi:role="line"
-         id="tspan100516"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="91.581772">EXTRA-LIGHT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="270.94995"
-       id="text100522"><tspan
-         sodipodi:role="line"
-         id="tspan100520"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="270.94995">BLACK</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="117.20579"
-       id="text100526"><tspan
-         sodipodi:role="line"
-         id="tspan100524"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="117.20579">LIGHT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="142.82979"
-       id="text100530"><tspan
-         sodipodi:role="line"
-         id="tspan100528"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="142.82979">REGULAR</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="168.45378"
-       id="text100534"><tspan
-         sodipodi:role="line"
-         id="tspan100532"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="168.45378">MEDIUM</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="194.07779"
-       id="text100538"><tspan
-         sodipodi:role="line"
-         id="tspan100536"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="194.07779">SEMI-BOLD</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="219.70178"
-       id="text100542"><tspan
-         sodipodi:role="line"
-         id="tspan100540"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="219.70178">BOLD</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans, Normal';text-align:start;letter-spacing:0.264583px;word-spacing:0px;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-       x="38.903164"
-       y="245.02878"
-       id="text100546"><tspan
-         sodipodi:role="line"
-         id="tspan100544"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'MFEK Sans';-inkscape-font-specification:'MFEK Sans Bold';text-align:start;text-anchor:start;fill:#241c1c;stroke-width:0.264583"
-         x="38.903164"
-         y="245.02878">EXTRA-BOLD</tspan></text>
+         y="26.46615">MFEK Sans Italic</tspan></text>
   </g>
 </svg>
