@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance height="1920" width="1015"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="1011.0" y="1390.0" type="curve" smooth="yes"/>
+      <point x="439.0" y="10.0" type="line" smooth="yes"/>
+      <point x="435.937486557" y="2.61141861566"/>
+      <point x="432.496560701" y="-9.18063906666e-16"/>
+      <point x="425.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="235.0" y="0.0" type="line" smooth="yes"/>
+      <point x="228.0" y="0.0"/>
+      <point x="225.935652204" y="3.2209572149"/>
+      <point x="229.0" y="10.0" type="curve" smooth="yes"/>
+      <point x="785.0" y="1240.0" type="line"/>
+      <point x="85.0" y="1240.0" type="line" smooth="yes"/>
+      <point x="78.0" y="1240.0"/>
+      <point x="75.0" y="1243.0"/>
+      <point x="75.0" y="1250.0" type="curve" smooth="yes"/>
+      <point x="75.0" y="1390.0" type="line" smooth="yes"/>
+      <point x="75.0" y="1397.0"/>
+      <point x="78.0" y="1400.0"/>
+      <point x="85.0" y="1400.0" type="curve" smooth="yes"/>
+      <point x="1005.0" y="1400.0" type="line" smooth="yes"/>
+      <point x="1012.37170154" y="1400.0"/>
+      <point x="1014.2150889" y="1396.23060494"/>
+    </contour>
+  </outline>
+</glyph>

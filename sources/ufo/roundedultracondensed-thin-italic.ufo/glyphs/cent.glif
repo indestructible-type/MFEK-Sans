@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance height="1920" width="284"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="321.03125" y="1243.0" type="curve" smooth="yes"/>
+      <point x="323.03125" y="1243.0" type="line" smooth="yes"/>
+      <point x="330.03125" y="1243.0"/>
+      <point x="330.03125" y="1235.0"/>
+      <point x="328.03125" y="1226.0" type="curve" smooth="yes"/>
+      <point x="4.03125" y="-176.0" type="line" smooth="yes"/>
+      <point x="1.03125" y="-187.0"/>
+      <point x="-2.96875" y="-193.0"/>
+      <point x="-8.96875" y="-193.0" type="curve" smooth="yes"/>
+      <point x="-10.96875" y="-193.0" type="line" smooth="yes"/>
+      <point x="-17.96875" y="-193.0"/>
+      <point x="-18.96875" y="-187.0"/>
+      <point x="-15.96875" y="-176.0" type="curve" smooth="yes"/>
+      <point x="308.03125" y="1226.0" type="line" smooth="yes"/>
+      <point x="310.03125" y="1235.0"/>
+      <point x="314.03125" y="1243.0"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+</glyph>

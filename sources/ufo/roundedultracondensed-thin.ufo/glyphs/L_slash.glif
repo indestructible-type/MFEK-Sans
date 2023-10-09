@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance height="1920" width="273"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="202.0" y="951.0" type="curve" smooth="yes"/>
+      <point x="203.0" y="949.0" type="line" smooth="yes"/>
+      <point x="206.6" y="941.8"/>
+      <point x="202.048497471" y="930.647723892"/>
+      <point x="194.0" y="926.0" type="curve" smooth="yes"/>
+      <point x="-19.0" y="803.0" type="line" smooth="yes"/>
+      <point x="-25.8610215459" y="799.031068254"/>
+      <point x="-35.2001953125" y="799.400390625"/>
+      <point x="-40.0" y="809.0" type="curve" smooth="yes"/>
+      <point x="-41.0" y="811.0" type="line" smooth="yes"/>
+      <point x="-44.5302734375" y="818.060546875"/>
+      <point x="-40.8610215459" y="826.031068254"/>
+      <point x="-34.0" y="830.0" type="curve" smooth="yes"/>
+      <point x="179.0" y="953.0" type="line" smooth="yes"/>
+      <point x="190.280571259" y="959.514132699"/>
+      <point x="198.6" y="957.8"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance height="2048" width="1380"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="48.0" y="575.0" type="curve" smooth="yes"/>
+      <point x="102.0" y="810.0" type="line" smooth="yes"/>
+      <point x="104.0" y="817.0"/>
+      <point x="107.0" y="820.0"/>
+      <point x="114.0" y="820.0" type="curve" smooth="yes"/>
+      <point x="1404.0" y="820.0" type="line" smooth="yes"/>
+      <point x="1411.0" y="820.0"/>
+      <point x="1414.0" y="817.0"/>
+      <point x="1412.0" y="810.0" type="curve" smooth="yes"/>
+      <point x="1358.0" y="575.0" type="line" smooth="yes"/>
+      <point x="1356.0" y="568.0"/>
+      <point x="1352.0" y="565.0"/>
+      <point x="1345.0" y="565.0" type="curve" smooth="yes"/>
+      <point x="55.0" y="565.0" type="line" smooth="yes"/>
+      <point x="48.0" y="565.0"/>
+      <point x="46.0" y="568.0"/>
+    </contour>
+    <component base="period" xOffset="320.0" yOffset="5.0"/>
+    <component base="period" xOffset="530.0" yOffset="920.0"/>
+  </outline>
+</glyph>
