@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Aring" format="2">
-  <advance height="960" width="447"/>
-  <unicode hex="00C5"/>
-  <outline>
-    <component base="A"/>
-    <component base="uni030A" xOffset="986.0" yOffset="250.0"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Hcircumflex" format="2">
-  <advance height="960" width="505"/>
-  <unicode hex="0124"/>
-  <outline>
-    <component base="H"/>
-    <component base="uni0302" xOffset="793.0" yOffset="400.0"/>
-  </outline>
-</glyph>
